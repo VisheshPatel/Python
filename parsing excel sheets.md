@@ -19,3 +19,6 @@ for row in ws.iter_rows():
 `cd openpyxl-2.4.0-b1`
 `./setup.py install`
 
+### Other modules to parse excel sheets
+
+- [Python Modules to parse Excels](http://www.python-excel.org/)
