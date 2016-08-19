@@ -8,8 +8,8 @@ for index, value in enumerate(list):
 
 ### Iterating Tuple
 ```
-x = [(1,2), (3,4), (5,6)]
+tuple = [(1,2), (3,4), (5,6)]
 
-for a, b in x:
-        print "First", a, "then", b
+for index, (a, b) in enumerate(tuple):
+        print "Index = ", index, "First", a, "then", b
 ```
