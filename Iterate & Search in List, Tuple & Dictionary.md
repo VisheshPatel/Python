@@ -18,5 +18,6 @@ for index, (a, b) in enumerate(tuple):
 dict = {'x': 1, 'y': 2, 'z': 3}
 
 for key,value in dict.items():
-    print key, value
+        if key in dict:
+                print key, value
 ```
