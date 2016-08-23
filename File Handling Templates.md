@@ -3,9 +3,9 @@
 ```
 #!/usr/bin/python
 
-FILE_NAME = "xyz.txt"
+FILE = "xyz.txt"
 
-with open(FILE_NAME) as f:
+with open(FILE) as f:
         for line in f:
                 print(line)
 ```
