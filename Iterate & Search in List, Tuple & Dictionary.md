@@ -44,6 +44,9 @@ if [item for item in tupleList if item[0] == 1]:
 dict = {'x': 1, 'y': 2, 'z': 3}
 
 key = 'x'
+if key in dict: print("dict contains key", key)
+
+key = 'x'
 if key in dict.keys(): print("dict contains key", key)
 
 value = 2
