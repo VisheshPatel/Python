@@ -17,7 +17,7 @@ with open(FILE) as f:
 ```
 #!/usr/bin/python
 
-fo = open("foo.txt", "w+")      # Write & Read
+fo = open("foo.txt", "rb+")      # Write & Read
 
 
 print "Name of the file: ", fo.name
@@ -31,11 +31,12 @@ print "Current file position : ", position
 
 # Reposition pointer at the beginning once again
 position = fo.seek(0, 0);
-str = fo.read(10);
+str = fo.read(20);
 print "Again read String is : ", str
 
 # Write
-fo.write( "Python is a great language.\nYeah its great!!\n");
+fo.write( "This is test line X");
 
 fo.close()
+
 ```
