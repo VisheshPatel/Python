@@ -18,8 +18,24 @@ with open(FILE) as f:
 #!/usr/bin/python
 
 fo = open("foo.txt", "w+")      # Write & Read
+
+
+print "Name of the file: ", fo.name
+print "Closed or not : ", fo.closed
+print "Opening mode : ", fo.mode
+print "Softspace flag : ", fo.softspace
+
+# Check current position
+position = fo.tell();
+print "Current file position : ", position
+
+# Reposition pointer at the beginning once again
+position = fo.seek(0, 0);
+str = fo.read(10);
+print "Again read String is : ", str
+
+# Write
 fo.write( "Python is a great language.\nYeah its great!!\n");
 
-# Close opend file
 fo.close()
 ```
