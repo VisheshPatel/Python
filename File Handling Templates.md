@@ -8,4 +8,5 @@ FILE = "xyz.txt"
 with open(FILE) as f:
         for line in f:
                 print(line)
+                print(f.next())        
 ```
