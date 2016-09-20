@@ -25,14 +25,14 @@ import subprocess,sys
 
 cmd = "top"
 
-p = subprocess.Popen(cmd, shell=True, stderr=subprocess.PIPE)
+process = subprocess.Popen( cmd, stdout=subprocess.PIPE, shell=True)
 
 while True:
-        out = p.stderr.read(1)
-        if out == '' and p.poll() != None:
-                break
-        if out != '':
-                sys.stdout.write(out)
-                sys.stdout.flush()
+        output = process.stdout.readline()
+        if output == '' and process.poll() is not None:
+            break
+        if output:
+            print output.strip()
+
 
 ```
