@@ -42,3 +42,10 @@ s = "-";
 seq = ("a", "b", "c"); 
 print (s.join( seq ))
 ```
+
+### Count Occurence of Pattern
+```
+sentence = 'Mary had a little lamb'
+sentence.count('a')
+sentence.count('a', 0, len(sentence))
+```
