@@ -7,3 +7,4 @@
 6. [Executing Linux Command](https://github.com/VisheshPatel/Python/blob/master/Executing%20Linux%20Command.md)
 7. [Thread](https://github.com/VisheshPatel/Python/blob/master/Thread.md)
 8. [Thread Locks](https://github.com/VisheshPatel/Python/blob/master/Thread%20Lock.md)
+9. [Thread Semaphores](https://github.com/VisheshPatel/Python/blob/master/Thread%20Semaphores.md)
