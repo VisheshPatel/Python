@@ -5,3 +5,4 @@
 4. [String Manipulation](https://github.com/VisheshPatel/Python/blob/master/String%20Manipulation.md)
 5. [Stack, Queue, Set](https://github.com/VisheshPatel/Python/blob/master/Stack%2C%20Queue%2C%20Set.md)
 6. [Executing Linux Command](https://github.com/VisheshPatel/Python/blob/master/Executing%20Linux%20Command.md)
+7. [Thread](https://github.com/VisheshPatel/Python/blob/master/Thread.md)
