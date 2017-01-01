@@ -8,3 +8,4 @@
 7. [Thread](https://github.com/VisheshPatel/Python/blob/master/Thread.md)
 8. [Thread Locks](https://github.com/VisheshPatel/Python/blob/master/Thread%20Lock.md)
 9. [Thread Semaphores](https://github.com/VisheshPatel/Python/blob/master/Thread%20Semaphores.md)
+10. [Scheduler](https://github.com/VisheshPatel/Python/blob/master/scheduler.md)
