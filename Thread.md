@@ -1,8 +1,9 @@
 ### Creating Thread
 
 ```
-import thread
+import threading
 import time
+
 
 def print_time(threadName, delay):
     while True:
@@ -10,7 +11,8 @@ def print_time(threadName, delay):
         time.sleep(delay)
 
 try:
-    thread.start_new_thread(print_time, ("Thread 1", 2, ))
+    t1 = threading.Thread(target=print_time, args=("Thread 1", 1))
+    t1.start()
 except:
     print "Error: unable to start thread"
 
