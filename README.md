@@ -10,3 +10,4 @@
 9. [Thread Semaphores](https://github.com/VisheshPatel/Python/blob/master/Thread%20Semaphores.md)
 10. [Scheduler](https://github.com/VisheshPatel/Python/blob/master/scheduler.md)
 11. [Countdown Timer](https://github.com/VisheshPatel/Python/blob/master/Countdown%20Timer.md)
+12. [Print Error Frame](https://github.com/VisheshPatel/Python/blob/master/Print%20Error%20Frame.md)
