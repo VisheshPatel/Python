@@ -1,9 +1,10 @@
 ```
-def printit():
-    threading.Timer(5.0, printit).start()
+def printit(i):
+    i = i + 1
     print "Hello, World!"
+    threading.Timer(5.0, printit, [i]).start()
 
-printit()
+printit(0)
 
 # continue with the rest of your code
 
