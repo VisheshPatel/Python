@@ -17,7 +17,7 @@ with open(FILE) as f:
 ```
 #!/usr/bin/python
 
-fo = open("foo.txt", "rb+")      # Write & Read
+fo = open("foo.txt", "wb+")      # Write & Read
 
 
 print "Name of the file: ", fo.name
