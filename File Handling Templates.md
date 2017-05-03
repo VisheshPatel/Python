@@ -3,12 +3,12 @@
 ```
 #!/usr/bin/python
 
-FILE = "xyz.txt"
+IN_FILE = "xyz.txt"
 
-with open(FILE) as f:
+with open(IN_FILE) as f:
         for line in f:
                 print(line)
-                print(f.next())        
+                print(f.next())
                 f.writelines("This is test line")
 ```
 
