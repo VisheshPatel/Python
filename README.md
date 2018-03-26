@@ -13,3 +13,4 @@
 12. [Print Error Frame](https://github.com/VisheshPatel/Python/blob/master/Print%20Error%20Frame.md)
 13. [Timer Function To Run Every N Seconds](https://github.com/VisheshPatel/Python/blob/master/Timer%20Function%20To%20Run%20Every%20N%20Seconds.md)
 14. [Regular Expression](https://github.com/VisheshPatel/Python/blob/master/Regular%20Expression.md)
+15. [XML Parser Template](https://github.com/VisheshPatel/Python/blob/master/XML%20Parser%20Template.md).
