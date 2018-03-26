@@ -19,7 +19,11 @@ root = tree.getroot()
 for child in root:
   print (child.tag, child.attrib, child.text)    
   
-# Iterate like DFS
+# Iterate like DFS over all child
 for elem in root.iter():
   print(elem.tag, elem.attrib, elem.text)
+  
+# Iterate to specific tag
+for elem in root.iter(tag='register'):
+  print(elem.tag, elem.attrib, elem.text)  
 ```
