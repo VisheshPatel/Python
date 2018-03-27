@@ -26,4 +26,8 @@ for elem in root.iter():
 # Iterate to specific tag
 for elem in root.iter(tag='register'):
   print(elem.tag, elem.attrib, elem.text)  
+  
+# Iterate hierarchy data more faster  
+for elem in tree.iterfind('memories/memory/children/register'):
+  print(elem.tag, elem.attrib)
 ```
