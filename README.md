@@ -14,3 +14,8 @@
 13. [Timer Function To Run Every N Seconds](https://github.com/VisheshPatel/Python/blob/master/Timer%20Function%20To%20Run%20Every%20N%20Seconds.md)
 14. [Regular Expression](https://github.com/VisheshPatel/Python/blob/master/Regular%20Expression.md)
 15. [XML Parser Template](https://github.com/VisheshPatel/Python/blob/master/XML%20Parser%20Template.md).
+16. [[Python Trick]: Decorator](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D:%20Decorator)
+17. [[Python Trick]: Python Conventions]()
+18. [[Python Trick]: Managing context using "with" statement]()
+19. []()
+20. []()
