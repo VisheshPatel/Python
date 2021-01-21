@@ -15,7 +15,7 @@
 14. [Regular Expression](https://github.com/VisheshPatel/Python/blob/master/Regular%20Expression.md)
 15. [XML Parser Template](https://github.com/VisheshPatel/Python/blob/master/XML%20Parser%20Template.md).
 16. [[Python Trick]: Decorator](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D:%20Decorator)
-17. [[Python Trick]: Python Conventions]()
-18. [[Python Trick]: Managing context using "with" statement]()
+17. [[Python Trick]: Python Conventions](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D:%20Python%20Conventions)
+18. [[Python Trick]: Managing context using "with" statement](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D:%20Managing%20context%20using%20%22with%22%20statement)
 19. []()
 20. []()
