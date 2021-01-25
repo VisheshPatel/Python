@@ -17,5 +17,7 @@
 16. [[Python Trick]: Decorator](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D:%20Decorator.md)
 17. [[Python Trick]: Python Underscore Dilemma](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D:%20Underscores%20Dilemma.md)
 18. [[Python Trick]: Managing context using "with" statement](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D:%20Managing%20context%20using%20%22with%22%20statement.md)
-19. []()
+19. [[Python Trick]: Function Argument Unpacking](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D:%20Function%20Argument%20Unpacking.md)
 20. []()
+21. []()
+22. []()
