@@ -85,4 +85,4 @@ d1.num_legs, d1.__class__.num_legs
 >>> ObjectCounter.num_instances   
 3
 ```
-
+- Because class variables can be "shadowed" by instance variables of the same name, it's easy to (accidentally) override class variables in a way that introduces bugs and odd behavior. So be cautious.
