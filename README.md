@@ -19,5 +19,5 @@
 18. [[Python Trick]: Managing context using "with" statement](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D:%20Managing%20context%20using%20%22with%22%20statement.md)
 19. [[Python Trick]: Shallow Copy <-> Deep Copy](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D:%20Shallow%20Copy%20%3C-%3E%20Deep%20Copy.md)
 20. [[Python Trick] : Class vs Instance Variable Dilemma](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Trick%5D%20:%20Class%20vs%20Instance%20Variable%20Dilemma.md)
-21. []()
+21. [[Python Tricks] : Sets and Multisets](https://github.com/VisheshPatel/Python/blob/master/%5BPython%20Tricks%5D%20:%20Sets%20and%20Multisets.md)
 22. []()
