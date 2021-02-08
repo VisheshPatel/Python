@@ -115,5 +115,5 @@ TRACE: add() returned 10
 - rate-limiting
 - caching, and more
 
-Its cool to use decorators, but overuse of decorators makes your code tangled & unmaintannable in long run. You might end up annoying your colleages. 
+It’s cool to use decorators, but overuse of decorators makes your code tangled & unmaintainable in long run. You might end up annoying your colleagues. 
 
