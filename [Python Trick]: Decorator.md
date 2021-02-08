@@ -1,5 +1,3 @@
-
-
 ## [Python Trick]: Decorator
 
 ### What is decorator?
@@ -25,7 +23,7 @@ World
 
 ### How it works?
 
-- There is nothing complicated, if you treat functions as object i.e. functions can be: 
+- There is nothing complicated, if you can think functions as object i.e. functions can be: 
     - Assigned to variables,
     - Passed to another function,
     - And returned from other functions
@@ -38,15 +36,14 @@ def decorator_example(original_func):
 def world():
     print("World")
 
-world = decorator_example(world)
+world = decorator_example(world) #! Magic ?
 
 world()
 ```
 
 ### Multiple decorators
 
-- You can also apply more than one decorator to a
-function which accumulates their effects & makes decorators so helpful as reusable building blocks.
+- You can also apply more than one decorator to a function which accumulates their effects & makes decorators so helpful as reusable building blocks.
 
 ```python
 def first_decorator(original_func):
